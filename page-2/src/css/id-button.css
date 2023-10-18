@@ -1,0 +1,56 @@
+.button {
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+}
+
+#button-exit {
+    width: 173px;
+    height: 40px;
+    background-color: white;
+    border: 1px solid rgb(121,83,195);
+    color: #7953C3;
+    font-size: 16px;
+}
+
+#button-to-main {
+    width: 108px;
+    height: 36px;
+    background-color: white;
+    border: 1px solid rgb(121,83,195);
+    border-radius: 8px;
+    font-size: 14px;
+    color: #7953C3;
+}
+
+#button-download {
+    width: 144px;
+    height: 36px;
+    background-color: #7953C3;
+    border-radius: 8px;
+    font-size: 14px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+    outline: none;
+}
+
+#button-show-photo {
+    width: 140px;
+    height: 22px;
+    background-color: rgba(121,83,195,0.2);
+    border-radius: 4px;
+    font-size: 8px;
+    color: #FFFFFF;
+}
+
+#button-continue {
+    width: 226px;
+    height: 48px;
+    border-radius: 8px;
+    background-color: rgba(121,83,195,0.2);
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 700px;
+}

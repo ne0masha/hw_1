@@ -1,0 +1,10 @@
+.lower-part__container {
+/*     width: 1040px; */
+    height: 48px;
+/*     background-color: #00c020; */
+    font-family: Museo Sans Cyrl;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
