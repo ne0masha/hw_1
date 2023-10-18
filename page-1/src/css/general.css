@@ -1,11 +1,31 @@
 @font-face {
     font-family: 'Museo Sans Cyrl';
-    src: url('/src/fonts/MuseoSansCyrl.woff');
+    src: url('/page-1/src/fonts/MuseoSansCyrl.woff');
+}
+
+.body {
+    padding: 0px;
 }
 
 .main-style {
     width: 1040px;
     height: 1100px;
+    margin-top: 40px;
+    margin-bottom: 160px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-family: Museo Sans Cyrl;
+/*     background-color: rgb(188, 195, 83); */
+    letter-spacing: -1%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+.main-style-page-2 {
+    width: 1040px;
+    height: 1000px;
     margin-top: 40px;
     margin-bottom: 160px;
     margin-left: 150px;

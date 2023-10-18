@@ -13,6 +13,7 @@
     border: 1px solid rgb(121,83,195);
     color: #7953C3;
     font-size: 16px;
+    margin-right: 40px;
 }
 
 #button-to-main {
@@ -23,6 +24,7 @@
     border-radius: 8px;
     font-size: 14px;
     color: #7953C3;
+    margin-bottom: 16px;
 }
 
 #button-download {
